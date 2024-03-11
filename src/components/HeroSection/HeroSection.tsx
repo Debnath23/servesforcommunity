@@ -45,6 +45,7 @@ export default function HeroSection() {
               src="/assets/heroVideo.mp4"
             ></video>
           </div>
+          
         </div>
       </section>
     </div>
