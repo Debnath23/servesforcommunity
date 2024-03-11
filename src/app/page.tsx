@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
     <header>
-      {/* <Navbar /> */}
+      <Navbar />
     </header>
     <main>
       <HeroSection />
