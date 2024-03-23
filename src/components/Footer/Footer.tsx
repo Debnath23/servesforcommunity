@@ -55,6 +55,7 @@ export default function Footer() {
                 <a
                   href="https://www.facebook.com/debnath.mahapatra.39"
                   className="hover:text-slate-500 transition-colors duration-300"
+                  target="blank"
                 >
                   Facebook
                 </a>
@@ -63,6 +64,7 @@ export default function Footer() {
                 <a
                   href="https://www.instagram.com/debnathmahapatra14/"
                   className="hover:text-slate-500 transition-colors duration-300"
+                  target="blank"
                 >
                   Instagram
                 </a>
@@ -71,6 +73,7 @@ export default function Footer() {
                 <a
                   href="#"
                   className="hover:text-slate-500 transition-colors duration-300"
+                  target="blank"
                 >
                   Twitter
                 </a>

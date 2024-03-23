@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import Link from "next/link";
 
 export default function Navbar() {
   return (
@@ -26,26 +25,35 @@ export default function Navbar() {
       </div>
 
       <div className="md:w-[700px] md:h-[50px] border-2 text-lg h-12 pl-5 pr-5 mt-3 gap-4 bg-slate-100 text-slate-500 items-center justify-center rounded-full inline-flex sticky top-5">
-        <a href="/">
-          <p className="mr-4 cursor-pointer">Home</p>
+        <a 
+        href="/"
+        className="mr-4 cursor-pointer">
+          Home
         </a>
-        <a href="/subjects">
-          <p className="mr-4 cursor-pointer">Subjects</p>
+        <a
+        href="/subjects"
+        className="mr-4 cursor-pointer">
+          Subjects
         </a>
-        <a href="/contact">
-          <p className="mr-4 cursor-pointer">Contact Us</p>
+        <a 
+        href="/contact"
+        className="mr-4 cursor-pointer">
+          Contact Us
         </a>
-        <a href="/support">
-          <p className="mr-4 cursor-pointer">Support Us</p>
+        <a 
+        href="/support"
+        className="mr-4 cursor-pointer">
+          Support Us
         </a>
       </div>
 
       <div className="flex md:mr-[175px]">
-        <Link href="/signin">
-          <p className="text-lg h-12 pl-5 pr-5 mt-3 gap-0 bg-slate-100 text-slate-500 hover:bg-slate-200 inline-flex items-center border-2 justify-center rounded-full">
+        <a
+        href="/signin"
+         className="text-lg h-12 pl-5 pr-5 mt-3 gap-0 bg-slate-100 text-slate-500 hover:bg-slate-200 inline-flex items-center border-2 justify-center rounded-full
+         ">
             Sign in
-          </p>
-        </Link>
+        </a>
       </div>
     </div>
   );
