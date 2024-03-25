@@ -8,7 +8,7 @@ export default function HeroFeatures() {
       <section className="mx-auto max-w-5xl px-6 md:h-screen md:max-h-[950px] md:max-w-7xl">
         <div className="flex h-full flex-col items-center justify-between md:flex-row md:pb-24">
           
-          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden grayscale md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
+          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
             <video
               autoPlay
               muted
@@ -52,7 +52,7 @@ export default function HeroFeatures() {
             </p>
           </div>
 
-          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden grayscale md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
+          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
             <video
               autoPlay
               muted
@@ -72,7 +72,7 @@ export default function HeroFeatures() {
       <section className="mx-auto max-w-5xl px-6 md:h-screen md:max-h-[950px] md:max-w-7xl">
         <div className="flex h-full flex-col items-center justify-between md:flex-row md:pb-24">
           
-          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden grayscale md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
+          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
             <video
               autoPlay
               muted
@@ -115,7 +115,7 @@ export default function HeroFeatures() {
             </p>
           </div>
 
-          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden grayscale md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
+          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
             <video
               autoPlay
               muted
@@ -134,7 +134,7 @@ export default function HeroFeatures() {
       <section className="mx-auto max-w-5xl px-6 md:h-screen md:max-h-[950px] md:max-w-7xl">
         <div className="flex h-full flex-col items-center justify-between md:flex-row md:pb-24">
           
-          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden grayscale md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
+          <div className="relative order-1 min-h-[225px] min-w-[225px] overflow-hidden md:overflow-auto md:w-[860px] md:h-[860px] md:ml-[80px] md:mt-[50px]">
             <video
               autoPlay
               muted

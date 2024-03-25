@@ -10,7 +10,7 @@ export default function Navbar() {
             className="outline-none transition duration-150 ease-in-out focus-visible:ring-2 focus-visible:ring-slate-7 py-1"
             href="/home"
           >
-            <div className="relative order-1 min-h-[25px] min-w-[25px] overflow-hidden grayscale md:overflow-auto md:w-[175px] md:h-[175px] md:ml-[175px] flex-initial">
+            <div className="relative order-1 min-h-[25px] min-w-[25px] overflow-hidden md:overflow-auto md:w-[175px] md:h-[175px] md:ml-[175px] flex-initial">
               <video
                 autoPlay
                 muted
