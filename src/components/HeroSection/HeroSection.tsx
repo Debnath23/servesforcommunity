@@ -7,7 +7,7 @@ export default function HeroSection() {
     <div className="relative z-20 md:h-screen md:max-h-[950px] h-auto text-yellow-900">
       <section className="mx-auto max-w-5xl px-6 md:h-screen md:max-h-[950px] md:max-w-7xl">
         <div className="flex h-full flex-col items-center justify-between md:flex-row md:pb-24">
-          <div className="origin-center-left order-2 max-w-3xl animate-hero-text-slide-up-fade sm:shrink-0 md:order-1 lg:pl-16">
+          <div className="order-2 max-w-3xl sm:shrink-0 md:order-1 lg:pl-16">
             <h1 className="font-book font-styling font-display font-effect-hero text-center md:text-left text-[4rem] md:text-7xl leading-[4.35rem] md:leading-[5rem] tracking-tight font-gradient">
               Help for
               <br />
