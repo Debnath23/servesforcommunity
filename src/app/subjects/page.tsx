@@ -1,8 +1,12 @@
 "use client";
+import Footer from "@/components/Footer/Footer";
+import Navbar from "@/components/Navbar/Navbar";
 import React from "react";
 
 export default function page() {
   return (
+    <>
+    <Navbar />
     <div className="relative font-serif md:h-screen md:max-h-[950px] h-auto text-yellow-900 ">
       <section className="mx-auto max-w-5xl px-12 md:h-screen md:max-h-[950px] md:max-w-7xl">
 
@@ -53,5 +57,7 @@ export default function page() {
         </div>
       </section>
     </div>
+    <Footer />
+    </>
   );
 }
